@@ -12,7 +12,4 @@
   I could've used FrankenWrapped (too cliché) or WrappedZumbi (too Scooby-Doo-ish).
 </p>
 
-<p>
-  <b>tags:</b> <i> python; análise de dados; las.fm; spotify; apple music; carly rae jepsen </i>
-</p>
 
