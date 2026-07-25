@@ -1,2 +1,4 @@
-# resumo-musical
-integração entre dados pessoais no last.fm e spotify
+# wrappedzumbi
+testando fazer uns negócios com uma década de dados de músicas escutadas.
+
+fazendo speedrun de créditos em ias "gratuitas" e o que já sei de python e análise de dados.
